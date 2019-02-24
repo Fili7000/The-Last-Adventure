@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# The Last Adventure Issue Tracker
+Welcome to the issue tracker for The Last Adventure Services/Contents.
+Here you can submit technical issues regarding our servers or our mods, to submit an issue, go on the Issues page and create a new Issue Report, be sure to select if it's an issue related to mods or servers from the "Projects" menu.
 
-You can use the [editor on GitHub](https://github.com/Fili7000/The-Last-Adventure/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fili7000/The-Last-Adventure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Website: https://sites.google.com/view/thelastadventure
+Servers Hub: https://sites.google.com/view/thelastadventure/servers
+Mods Hub: https://sites.google.com/view/thelastadventure/mods
+Servers Group Page: https://unturned-servers.net/group/440/
